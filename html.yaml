@@ -1,0 +1,11 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: HTML Test
+  description: '<H1>HTML Injection</h1>'
+paths:
+  /:
+    post:
+      responses:
+        '200':
+          description: HTML Test
