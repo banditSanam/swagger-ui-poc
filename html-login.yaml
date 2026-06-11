@@ -36,7 +36,7 @@ info:
   '
 paths:
   /:
-    post:
+    get:
       responses:
         '200':
           description: Login successful
