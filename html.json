@@ -1,0 +1,20 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "HTML",
+    "version": "1.0"
+  },
+  "paths": {
+    "/html": {
+      "get": {
+        "summary": "html",
+        "description": "<H1>HTML Injection</h1>",
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}
